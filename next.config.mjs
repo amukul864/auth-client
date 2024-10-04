@@ -5,7 +5,7 @@ const nextConfig = {
 		styledComponents: true,
 	},
 	images: {
-		domains: ["lh3.googleusercontent.com"],
+		domains: ["lh3.googleusercontent.com","auth-server-jwo5.onrender.com"],
 	},
 };
 
