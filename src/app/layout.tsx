@@ -9,8 +9,7 @@ import ErrorProvider from "./store/error-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "JustChat | Chat With Your Friends and Strangers",
-	description: "Chat With Your Friends and Strangers",
+	title: "JustAuth",
 };
 
 export default function RootLayout({
